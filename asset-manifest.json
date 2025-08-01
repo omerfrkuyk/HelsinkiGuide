@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HelsinkiGuide/static/css/main.1524b3f3.css",
+    "main.js": "/HelsinkiGuide/static/js/main.63e1efc7.js",
+    "index.html": "/HelsinkiGuide/index.html",
+    "main.1524b3f3.css.map": "/HelsinkiGuide/static/css/main.1524b3f3.css.map",
+    "main.63e1efc7.js.map": "/HelsinkiGuide/static/js/main.63e1efc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1524b3f3.css",
+    "static/js/main.63e1efc7.js"
+  ]
+}
